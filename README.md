@@ -10,8 +10,6 @@ npm run dev
 yarn dev
 # or
 pnpm dev
-# or
-bun dev
 ```
 
 You have to give your gemini API key as environmental variable named NEXT_PUBLIC_GEMINI_API_KEY= "YOUR_GEMINI_API_KEY".
